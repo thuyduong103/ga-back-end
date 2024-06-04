@@ -1,0 +1,51 @@
+{
+    "products": [
+      {
+        "id": "at-1",
+        "name": "Loa Bluetooth Marshall Acton III ",
+        "image": [
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/2162/325336/s16/loa-bluetooth-marshall-acton-iii-den-1-650x650.jpg",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/2162/325336/s16/loa-bluetooth-marshall-acton-iii-den-2-650x650.jpg",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/2162/325336/s16/loa-bluetooth-marshall-acton-iii-den-3-650x650.jpg",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/2162/325336/s16/loa-bluetooth-marshall-acton-iii-den-4-650x650.jpg"
+        ],
+        "price": 7990000,
+        "description": "Loa Bluetooth Marshall Tufton là một kiệt tác về thiết kế, đây là sự kết hợp giữa phong cách cổ điển phá một chút nét hiện đại. Với hình dáng vuông vắn và lớp vỏ bọc bằng nhựa dạng vân, Tufton mang đến cảm giác mạnh mẽ và sang trọng, gợi nhớ đến những chiếc ampli Marshall huyền thoại. ",
+        "category": "am-thanh",
+        "quantity": 5,
+        "discount": 10
+      },
+      {
+        "id": "at-2",
+        "name": "Tai nghe Bluetooth chụp tai Marshall Major IV  ",
+        "image": [
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/325341/s16/tai-nghe-bluetooth-chup-tai-marshall-major-iv-den-1-650x650.png",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/325341/s16/tai-nghe-bluetooth-true-wireless-marshall-minor-iv-den-1-1-650x650.jpg",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/325341/s16/tai-nghe-bluetooth-true-wireless-marshall-minor-iv-den-2-1-650x650.jpg",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/325341/s16/tai-nghe-bluetooth-true-wireless-marshall-minor-iv-den-3-1-650x650.jpg"
+        ],
+        "price": 2290000,
+        "description": "Loa Bluetooth Marshall Tufton là một kiệt tác về thiết kế, đây là sự kết hợp giữa phong cách cổ điển phá một chút nét hiện đại. Với hình dáng vuông vắn và lớp vỏ bọc bằng nhựa dạng vân, Tufton mang đến cảm giác mạnh mẽ và sang trọng, gợi nhớ đến những chiếc ampli Marshall huyền thoại. ",
+        "category": "am-thanh",
+        "quantity": 10,
+        "discount": 10
+      },
+      {
+        "id": "at-3",
+        "name": "Tai nghe Bluetooth True Wireless Marshall Motif II A.N.C.  ",
+        "image": [
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/325340/s16/tai-nghe-bluetooth-tws-marshall-motif-ii-a-n-c-1-650x650.png",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/325340/s16/tai-nghe-bluetooth-true-wireless-marshall-minor-iv-1-650x650.jpg",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/325340/s16/tai-nghe-bluetooth-true-wireless-marshall-minor-iv-2-650x650.jpg",
+          "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/325340/s16/tai-nghe-bluetooth-true-wireless-marshall-minor-iv-3-650x650.jpg"
+        ],
+        "price": 5490000,
+        "description": "Tai nghe Bluetooth True Wireless Marshall Motif II A.N.C. là một kiệt tác về thiết kế, đây là sự kết hợp giữa phong cách cổ điển phá một chút nét hiện đại. ",
+        "category": "am-thanh",
+        "quantity": 10,
+        "discount": 15
+      }
+    ],
+    "startDate": 1717506391440,
+    "endDate": 1717506391440
+  }
