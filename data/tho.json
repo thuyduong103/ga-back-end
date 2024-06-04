@@ -1,0 +1,41 @@
+[
+  {
+    "id": "pk-1",
+    "name": "Adapter sạc Apple USB-C 20W",
+    "image": [
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/9499/230315/s16/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-101021-023343-650x650.png",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/9499/230315/s16/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-1-2-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/9499/230315/s16/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-1-1-650x650.jpg"
+    ],
+    "price": 520000,
+    "description": "Bộ Sạc Apple USB-C 20W giúp sạc nhanh và hiệu quả tại nhà, trong văn phòng hoặc khi đang di chuyển. Mặc dù bộ sạc này tương thích với mọi thiết bị có cổng sạc USB‑C, Apple khuyên bạn nên sử dụng phụ kiện này với iPad Pro và iPad Air để đạt hiệu quả sạc tối ưu. Bạn cũng có thể sử dụng với iPhone 8 hoặc các phiên bản cao hơn để tận dụng tính năng sạc nhanh. Không bán kèm cáp sạc ",
+    "category": "Phu-kien"
+  },
+  {
+    "id": "ipo-1",
+    "name": "iPhone 15 Pro Max",
+    "image": [
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-1-2-650x650.png",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-2-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-1-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-3-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-4-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-5-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-6-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-7-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-8-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-9-650x650.jpg",
+      "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-titan-10-650x650.jpg"
+    ],
+    "price": 29590000,
+    "description": "iPhone 15 Pro Max. Được đúc từ titan và trang bị chip A17 Pro đột phá, nút Tác Vụ có thể tùy chỉnh, và hệ thống camera iPhone mạnh mẽ nhất từ trước đến nay.",
+    "category": "iphone",
+    "memory": ["256GB", "512GB", "1TB"],
+    "colors": [
+      { "colorName": "Titan xanh", "color": "#4f5765" },
+      { "colorName": "Titan tu nhien", "color": "#bab4a9" },
+      { "colorName": "Titan trang", "color": "#f2f1ec" },
+      { "colorName": "Titan den", "color": "#bab4a9" }
+    ]
+  }
+]
