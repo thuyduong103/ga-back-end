@@ -1,1 +1,24 @@
-[]
+[{
+    "id": "f1",
+    "name": "Garfield: Mèo Béo Siêu Quậy",
+    "image": "https://files.betacorp.vn/media%2fimages%2f2024%2f05%2f28%2f310524%2Dgarfield%2D150640%2D280524%2D95.jpg",
+    "description": "Trong bộ phim hoạt hình này, chú mèo mê đồ ăn Garfield bị cuốn vào một vụ trộm để giúp cha mình - một tên trộm đường phố, khỏi một chú mèo biểu diễn khác đang muốn trả thù ông. Bắt đầu như một mối quan hệ hợp tác miễn cưỡng và kết thúc bằng việc Garfield và Vic nhận ra rằng cha con họ không hề khác biệt như vẻ ngoài của mình.",
+    "type":"Hoạt hình, Phiêu lưu",
+    "director":"Mark Dindal",
+    "actor":"Chris Pratt, Samuel L. Jackson, Nicholas Hoult",
+    "duration":"101 phút",
+    "language":"Tiếng Việt",
+    "publishDate":"31/05/2024"
+  },
+  {
+    "id": "f2",
+    "name": "Doraemon: Nobita và Bản Giao Hưởng Địa Cầu",
+    "image": "https://files.betacorp.vn/media%2fimages%2f2024%2f04%2f24%2f240524%2Ddraft%2Ddoraemon%2D170958%2D240424%2D90.png",
+    "description": "Đôrêmon và những người bạn thực hiện chuyến phiêu lưu để gặp gỡ những người bạn mới, kết nối mọi người bằng âm nhạc và cứu thế giới khỏi khủng hoảng. Liệu những người bạn nhỏ có thể cứu được 'tương lai âm nhạc' và cả địa cầu này?",
+    "type":"Hoạt hình, Phiêu lưu",
+    "director":"Kazuaki Imai",
+    "actor":"Wasabi Mizuta, Megumi Ôhara, Yumi Kakazu",
+    "duration":"115 phút",
+    "language":"Vietnamese",
+    "publishDate":"24/05/2024"
+  }]
