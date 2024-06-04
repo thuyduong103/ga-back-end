@@ -41,8 +41,16 @@ app.get('/:name/flash-sale', async (req, res) => {
   const name = req?.params?.name;
   const data = await readJSON(`./data/${name}-flash-sale.json`);
 
-  if (data) res.status(200).json({ data: data || null });
-  else res.status(404).json({ data: null, message: 'data not found!' });
+  if (data) {
+    const newProductList = data?.products?.map((item) => {
+      const randomNumber = Math.floor(Math.random() * item?.quantity || 0);
+      return { ...item, soldQuantity: randomNumber };
+    });
+
+    res
+      .status(200)
+      .json({ data: { ...data, products: newProductList } || null });
+  } else res.status(404).json({ data: null, message: 'data not found!' });
 });
 
 app.get('/:name/detail/:id', async (req, res) => {
